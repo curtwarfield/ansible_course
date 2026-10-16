@@ -1,1 +1,2 @@
-### Getting Started with Ansible: Udemy course via Red Hat
+### Getting Started with Ansible
+This repository is for the Udemy course.
